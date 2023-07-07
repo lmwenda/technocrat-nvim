@@ -1,0 +1,2 @@
+require("technocrat")
+print("hello")
